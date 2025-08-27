@@ -1,4 +1,4 @@
-# mejores-hipotecas-2025
+# MEJORES HIPOTECAS DE 2025 
 Este repositorio contiene contenido curado y estructurado sobre las mejores hipotecas de 2025 más destacados en España, publicado originalmente por Finect.
 
 Incluye:
