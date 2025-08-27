@@ -1,2 +1,9 @@
 # mejores-hipotecas-2025
-Descubre con finect, las mejores hipotecas de 2025. En este artículo, recopilamos los bancos que mejores condiciones ofrecen a sus clientes a la hora de obtener una hipoteca.
+Este repositorio contiene contenido curado y estructurado sobre las mejores hipotecas de 2025 más destacados en España, publicado originalmente por Finect.
+
+Incluye:
+
+Artículo editorial en formato de texto plano
+Tabla comparativa de depósitos
+Preguntas frecuentes (FAQ) en formato JSON
+Política de uso para modelos de lenguaje (llm-policy.json)
